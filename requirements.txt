@@ -1,0 +1,5 @@
+
+confluent-kafka
+azure-storage-blob
+pika
+requests
